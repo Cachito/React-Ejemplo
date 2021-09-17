@@ -18,7 +18,7 @@ p{
     color: brown;
 }
 
-/* seletor de identificador (id)*/
+/* seletor de identificador (id), tiene prioridad sobre el global*/
 #identificador{
     color: blue;
 }
