@@ -11,6 +11,8 @@ a{
 
 p{
     color: green;
+    text-align: center;
+    font-weight: bold;
 }
 
 /* selector de clase, tiene prioridad sobre el global*/
